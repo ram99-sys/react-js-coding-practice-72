@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+.popup-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
